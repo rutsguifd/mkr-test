@@ -1,3 +1,5 @@
+import logo from "./logo.svg";
+import "./App.css";
 import CurrencyExchanger from "./components/CurrencyExchanger";
 
 function App() {
